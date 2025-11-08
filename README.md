@@ -11,6 +11,7 @@ This project is a modern, responsive company portfolio website built with Next.j
 -   **MongoDB Integration**: Persistent storage for contact messages using Mongoose and MongoDB Atlas.
 -   **Toast Notifications**: Enhanced user feedback for form submissions using `react-toastify`.
 
+
 ## Technologies Used
 
 -   **Next.js**: React framework for production.
