@@ -5,8 +5,8 @@ import Header from "@/components/Header";
 import ServicesBetter from "@/components/servicesbetter";
 import PrimaryButton from "@/components/buttons/PrimaryButton";
 import SecondaryButton from "@/components/buttons/SecondaryButton";
-import { useRouter, useSearchParams } from "next/navigation";
-import { useState, Suspense } from "react";
+import { useRouter } from "next/navigation";
+import { Suspense } from "react";
 import ServiceFilterSection from "@/components/ServiceFilterSection"
 
 export default function ServicesPage() {
